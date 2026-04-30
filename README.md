@@ -1,4 +1,4 @@
-# 📌 Controle de vendas da vendinha
+# 📌 Controle de vendas
 Projeto desenvolvido durante o 2º termo do curso de Análise e Desenvolvimento de Sistemas para Interfocus, com foco na criação de uma solução colaborativa desde a concepção até a implementação.
 
 ## 🚀 Tecnologias Utilizadas
