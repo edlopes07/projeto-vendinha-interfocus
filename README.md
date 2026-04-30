@@ -3,7 +3,7 @@ Projeto desenvolvido durante o 2º termo do curso de Análise e Desenvolvimento 
 
 ## 🚀 Tecnologias Utilizadas
 
-* **Front-end:** HTML, CSS e Bootstrap
+* **Front-end:** HTML, CSS + Bootstrap
 * **Back-end:** JavaScript
 
 ## 👥 Equipe
