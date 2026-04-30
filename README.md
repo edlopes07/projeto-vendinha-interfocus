@@ -11,7 +11,7 @@ Projeto desenvolvido durante o 2º termo do curso de Análise e Desenvolvimento 
 * **Eduardo** – Desenvolvimento do front-end
 * **Davi** – Desenvolvimento do back-end
 * **Renan** – Desenvolvimento do front-end
-* **Carla, Raphael, Felipe, Giuliano e Guilherme** – Concepção e estruturação do projeto
+* **Carla, Raphael, Felipe, Giuliano e Guilherme** – Concepção, auxílio e estruturação do projeto
 
 ## 🎨 Protótipo
 
